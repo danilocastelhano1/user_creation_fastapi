@@ -12,6 +12,10 @@ coverage.xml
 .netlify
 test.db
 *.sqlite3
+*.xlsx
+*.xls
+*.csv
+*.log
 log.txt
 Pipfile.lock
 env3.*
